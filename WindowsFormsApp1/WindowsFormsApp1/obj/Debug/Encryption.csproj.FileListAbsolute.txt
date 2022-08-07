@@ -1,0 +1,10 @@
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Encryption.csproj.GenerateResource.cache
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Sagitec Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Encryption.csproj.AssemblyReference.cache
